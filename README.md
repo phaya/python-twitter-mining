@@ -10,7 +10,9 @@ Para la realización de la práctica se proveen dos _notebooks_ que contienen el
 
 Primeramente debemos realizar una clonación del repositorio que contiene todos los archivos que conforman la práctica. Desde un directorio vacío ejecutamos el siguiente comando:
 
-> git clone https://github.com/phaya/python-twitter-mining.git
+```
+git clone https://github.com/phaya/python-twitter-mining.git
+```
 
 creándose un directorio `python-twitter-mining` con los archivos correspondientes. 
 
@@ -28,12 +30,18 @@ Para facilitar la configuración se recomienda emplear la plataforma [Conda](htt
 
 Una vez dispongamos de una instalación de Conda es preciso crear un nuevo entorno donde instalar las bibliotecas necesarias y los _notebooks_. Se facilta un archivo `environment.yml` con toda la información necesaria para realizar este paso mediante el siguiente comando:
 
-> conda env create -f environment.yml
+```
+conda env create -f environment.yml
+```
 
 Al finalizar la instalación deberíamos tener creado un nuevo entorno, denominado `tweet-mining` que debemos activar con el siguiente comando:
 
-> source activate tweet-mining
+```
+source activate tweet-mining
+```
 
 Finalmente procedemos a lanzar `jupyter` para poder ejecutar los _notebooks_
 
-> jupyter notebook
+```
+jupyter notebook
+```
