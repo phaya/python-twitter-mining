@@ -14,7 +14,7 @@ Primeramente debemos realizar una clonación del repositorio que contiene todos 
 
 creándose un directorio `python-twitter-mining` con los archivos correspondientes. 
 
-## Instalación del entorno de ejecución
+## Instalacion del entorno de ejecucion
 
 Para poder ejecutar los _notebooks_ necesitamos disponer de una entorno con _Jupyter_, y con las siguientes bibliotecas:
 
