@@ -12,6 +12,7 @@ Primeramente debemos realizar una clonación del repositorio que contiene todos 
 
 > git clone https://github.com/phaya/python-twitter-mining.git
 
+
 ## Instalación del entorno de ejecución
 
 Para poder ejecutar los _notebooks_ necesitamos disponer de una entorno con _Jupyter_, y con las siguientes bibliotecas:
