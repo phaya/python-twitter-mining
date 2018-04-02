@@ -16,7 +16,7 @@ git clone https://github.com/phaya/python-twitter-mining.git
 
 creándose un directorio `python-twitter-mining` con los archivos correspondientes. 
 
-## Instalación del entorno de ejecucion
+## Instalación
 
 Para poder ejecutar los _notebooks_ necesitamos disponer de una entorno con _Jupyter_, y con las siguientes bibliotecas:
 
