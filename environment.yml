@@ -1,0 +1,7 @@
+name: tweet-mining-2
+dependencies:
+    - python==3.6.1
+    - matplotlib
+    - pandas
+    - pip:
+        - tweepy
