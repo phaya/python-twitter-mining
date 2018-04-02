@@ -12,6 +12,7 @@ Primeramente debemos realizar una clonación del repositorio que contiene todos 
 
 > git clone https://github.com/phaya/python-twitter-mining.git
 
+creándose un directorio `python-twitter-mining` con los archivos correspondientes. 
 
 ## Instalación del entorno de ejecución
 
