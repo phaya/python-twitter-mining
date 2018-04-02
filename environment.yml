@@ -1,4 +1,4 @@
-name: tweet-mining-2
+name: tweet-mining
 dependencies:
     - python==3.6.1
     - matplotlib
