@@ -45,3 +45,9 @@ Finalmente procedemos a lanzar `jupyter` para poder ejecutar los _notebooks_
 ```
 jupyter notebook
 ```
+
+## Referencias
+
+- [An Introduction to Text Mining using Twitter Streaming API and Python](http://adilmoujahid.com/posts/2014/07/twitter-analytics/)
+- [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
+- [Mastering Social Media Mining with Python](https://marcobonzanini.com/2016/08/02/mastering-social-media-mining-with-python/)
